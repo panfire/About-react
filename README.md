@@ -2,6 +2,7 @@
 
 ----------
 ## 使用方法
+npm install
 
 开发模式:
 npm run dev 
